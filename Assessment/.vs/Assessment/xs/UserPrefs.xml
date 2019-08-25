@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{70F0466E-CEDE-E188-BF54-18A5F2B02E63}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../assignment/README.md">
+    <Files>
+      <File FileName="Assets/Scripts/Begin.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Grid.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Group.cs" Line="17" Column="1" />
+      <File FileName="Assets/Scripts/Sound.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Spawner.cs" Line="24" Column="9" />
+      <File FileName="../../assignment/README.md" Line="1" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assessment" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Begin.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Assessment" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3b8017fe-801e-4483-b6a5-8a77b827df4d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
