@@ -65,6 +65,7 @@
     <Compile Include="Assets\Scripts\Group.cs" />
     <Compile Include="Assets\Scripts\Sound.cs" />
     <Compile Include="Assets\Scripts\Spawner.cs" />
+    <Compile Include="Assets\Scripts\TimeManager.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/apple/Desktop/Game development/Assessment/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
