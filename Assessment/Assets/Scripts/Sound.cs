@@ -21,5 +21,21 @@ public class Sound : MonoBehaviour
            
             clicked.Play();
         }
+        else if (Input.GetKeyDown(KeyCode.DownArrow))
+        {
+
+            clicked.Play();
+        }
+        else if (Input.GetKeyDown(KeyCode.LeftArrow))
+        {
+
+            clicked.Play();
+        }
+        else if (Input.GetKeyDown(KeyCode.RightArrow))
+        {
+
+            clicked.Play();
+        }
+        
     }
 }
